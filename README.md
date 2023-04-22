@@ -3,13 +3,14 @@
 <div style="font-size: 1.5rem;">
   <a href="./README.md">中文</a> |
   <a href="./README.en.md">English</a>
+   <a href="https://aichatos.com">[DEMO]国内服务器镜像aichatos.com（仅境内可访问）</a>
    <a href="https://chat1.binjie.site:7777/">[DEMO]国内服务器镜像（仅境内可访问）</a>
    <a href="https://chat.yqcloud.top/">[DEMO]cloudflare镜像（境内境外都可访问）</a>
 </div>
 </br>
 
 > 声明：此项目只发布于 Github，基于 MIT 协议，免费且作为开源学习使用。并且不会有任何形式的卖号、付费服务、讨论群、讨论组等行为。谨防受骗。
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/x87YtX?referralCode=oxNJcd)
 ![cover](./docs/c1.png)
 ![cover2](./docs/c2.png)
 
